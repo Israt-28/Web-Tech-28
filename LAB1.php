@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>WebTech Lab task 2 </title>
+<title>WebTech Lab task 1 </title>
 </head>
 <body>
 
-<h1> WebTech Lab Task 2 </h1>
+<h1> WebTech Lab Task 1 </h1>
 <h3> This is a Departmental course </h3>
 <p> Name  : ISRAT JAHAN </p>
 <p> ID    : 17-34780-2</p>
